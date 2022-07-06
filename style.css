@@ -21,7 +21,11 @@ section {
 }
 
 .half-width img {
-    width: 80%;
+    width: 85%;
+}
+
+.top-img {
+    padding-left: 4%;
 }
 
 .link-button {
