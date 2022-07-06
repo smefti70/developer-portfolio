@@ -1,4 +1,5 @@
 body {
+    margin: 0;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -24,6 +25,15 @@ section {
 }
 
 .link-button {
+    color: white;
+    font-weight: 700;
     text-decoration: none;
-    background-color: orange;
+    background-image: linear-gradient(45deg, rgb(241, 128, 109), tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
